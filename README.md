@@ -21,4 +21,4 @@ El script con el nombre "reportes.sh" genera reportes por mes y año que requier
 se agregan como comentarios comandos dentro del script como reportes entre meses, datos de dias feriados entre otros
 
 
-
+NOTA:para ejecutar el escript  crear una Carpeta llamada "Data" en su home y dentro de esta guardar los archivos
